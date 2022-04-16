@@ -1,0 +1,12 @@
+.error-container {
+    font-family: arial;
+    font-size: 1.2rem;
+    background-color: rgb(255, 147, 147);
+    color: white;
+    border: 2px solid red;
+    border-radius: 0.5rem;
+    width: 50%;
+    margin: auto;
+    padding: 0.6rem;
+
+}
