@@ -5,7 +5,8 @@ function Header() {
     <Box
       sx={{
         width: 1,
-        height: 75,
+        paddingTop: "0.6rem",
+        paddingBottom: "0.6rem",
         backgroundColor: "primary.main",
         "&:hover": {
           backgroundColor: "primary.light",

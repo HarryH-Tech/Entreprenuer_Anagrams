@@ -19,7 +19,6 @@ function App() {
       <Selection />
       {loading && <Loading />}
       {error && <Error />}
-
       {/* Load component only when companies.length is greater than zero as if only entrprenruData is specified as the conditional rendering
       value, then the component renders on load due to the entrepreneurData.companies.length array being a truthy value even when empty 
       */}

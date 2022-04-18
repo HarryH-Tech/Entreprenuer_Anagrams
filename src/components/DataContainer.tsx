@@ -19,10 +19,7 @@ function DataContainer() {
             borderRadius: "0.3rem",
             width: "70%",
             margin: "1rem auto 5rem auto",
-            transition: " box-shadow 0.4s",
-            "&:hover": {
-              boxShadow: "2px 2px 2px",
-            },
+            backgroundColor: "#fafafa",
           }}
         >
           <Typography

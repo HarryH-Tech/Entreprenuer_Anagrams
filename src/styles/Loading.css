@@ -1,11 +1,12 @@
 .container {
-    text-align: center
+    text-align: center;
+    margin-right: 80px;
 }
 
 .lds-roller {
     display: inline-block;
-    position: relative;
-    width: 10%;
+
+
 
 }
 
